@@ -1,0 +1,7 @@
+C:\xampp\htdocs\sms\API\receive\receive\obj\Debug\receive.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\sms\API\receive\receive\bin\Debug\receive.exe.config
+C:\xampp\htdocs\sms\API\receive\receive\bin\Debug\receive.exe
+C:\xampp\htdocs\sms\API\receive\receive\bin\Debug\receive.pdb
+C:\xampp\htdocs\sms\API\receive\receive\obj\Debug\receive.exe
+C:\xampp\htdocs\sms\API\receive\receive\obj\Debug\receive.pdb
+C:\xampp\htdocs\sms\API\receive\receive\obj\Debug\receive.csprojResolveAssemblyReference.cache

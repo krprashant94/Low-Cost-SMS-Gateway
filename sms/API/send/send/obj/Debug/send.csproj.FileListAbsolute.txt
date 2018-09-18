@@ -1,0 +1,7 @@
+C:\xampp\htdocs\sms\API\send\send\obj\Debug\send.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\sms\API\send\send\obj\Debug\send.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\sms\API\send\send\bin\Debug\send.exe.config
+C:\xampp\htdocs\sms\API\send\send\bin\Debug\send.exe
+C:\xampp\htdocs\sms\API\send\send\bin\Debug\send.pdb
+C:\xampp\htdocs\sms\API\send\send\obj\Debug\send.exe
+C:\xampp\htdocs\sms\API\send\send\obj\Debug\send.pdb
